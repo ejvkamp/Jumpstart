@@ -108,3 +108,9 @@ img {
 .categories ul {
   color: rgba(0, 0, 0, 0.7);
 }
+
+/* Projects */
+
+.project p:last-child {
+  margin-bottom: 5.85rem;
+}
