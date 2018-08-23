@@ -22,6 +22,7 @@ h3 {
 
 img {
   width: 100%;
+  opacity: 0.8;
 }
 
 /* Bootstrap Overrides */
@@ -113,4 +114,26 @@ img {
 
 .project p:last-child {
   margin-bottom: 5.85rem;
+}
+
+/* Having Trouble */
+
+.trouble {
+  text-align: center;
+}
+
+.trouble strong {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-top: 5.2rem;
+}
+
+.trouble p {
+  width: 42rem;
+  margin: auto;
+  margin-top: 1.4rem;
+}
+
+.trouble a {
+  margin-bottom: 5.2rem;
 }
